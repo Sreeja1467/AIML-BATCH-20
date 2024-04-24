@@ -17,4 +17,4 @@
 
 9.[ASSIGNMENT-09](https://github.com/Sreeja1467/AIML-BATCH-20/blob/main/Assignment-09.ipynb)
 
-10.[ASSIGNMENT-10](https://github.com/Sreeja1467/AIML-BATCH-20/blob/main/Assignment_10.ipynb)
+10.[ASSIGNMENT-10](https://github.com/Sreeja1467/AIML-BATCH-20/blob/main/Assignment-10.ipynb)
